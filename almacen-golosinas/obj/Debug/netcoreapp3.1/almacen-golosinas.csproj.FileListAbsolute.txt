@@ -1,0 +1,14 @@
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\almacen-golosinas\almacen-golosinas\obj\Debug\netcoreapp3.1\almacen-golosinas.csproj.AssemblyReference.cache
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\almacen-golosinas\almacen-golosinas\obj\Debug\netcoreapp3.1\almacen-golosinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\almacen-golosinas\almacen-golosinas\obj\Debug\netcoreapp3.1\almacen-golosinas.AssemblyInfoInputs.cache
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\almacen-golosinas\almacen-golosinas\obj\Debug\netcoreapp3.1\almacen-golosinas.AssemblyInfo.cs
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\almacen-golosinas\almacen-golosinas\obj\Debug\netcoreapp3.1\almacen-golosinas.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\almacen-golosinas\almacen-golosinas\bin\Debug\netcoreapp3.1\almacen-golosinas.exe
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\almacen-golosinas\almacen-golosinas\bin\Debug\netcoreapp3.1\almacen-golosinas.deps.json
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\almacen-golosinas\almacen-golosinas\bin\Debug\netcoreapp3.1\almacen-golosinas.runtimeconfig.json
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\almacen-golosinas\almacen-golosinas\bin\Debug\netcoreapp3.1\almacen-golosinas.runtimeconfig.dev.json
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\almacen-golosinas\almacen-golosinas\bin\Debug\netcoreapp3.1\almacen-golosinas.dll
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\almacen-golosinas\almacen-golosinas\bin\Debug\netcoreapp3.1\almacen-golosinas.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\almacen-golosinas\almacen-golosinas\obj\Debug\netcoreapp3.1\almacen-golosinas.dll
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\almacen-golosinas\almacen-golosinas\obj\Debug\netcoreapp3.1\almacen-golosinas.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\almacen-golosinas\almacen-golosinas\obj\Debug\netcoreapp3.1\almacen-golosinas.genruntimeconfig.cache
